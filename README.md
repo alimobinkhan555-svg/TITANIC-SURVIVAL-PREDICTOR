@@ -32,7 +32,7 @@ This project predicts whether a passenger survived the Titanic disaster using a 
 
 ## 🚀 How to Run  
 1. Clone the repository  
-git clone https://github.com/yourusername/titanic-survival-predictor.git  
+git clone https://github.com/alimobinkhan555-svg/TITANIC-SURVIVAL-PREDICTOR.git  
 
 2. Install required libraries  
 pip install -r requirements.txt  
